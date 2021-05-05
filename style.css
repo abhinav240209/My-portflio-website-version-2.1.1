@@ -1,0 +1,55 @@
+.line {
+   background-color:aquamarine;
+    width:250px;
+    height:5px;
+    margin-left:450px;
+    
+}
+#apps {
+  width:100%;
+    height:1300px;
+    background:linear-gradient(#66b7e3 0%, #2211d9 70%);
+}
+
+#games {
+  width:100%;
+    height:800px;
+    background:linear-gradient(#e8eb44 0%, #c41906 70%);
+
+}
+
+#chatbots {
+  width:100%;
+    height:800px;
+    background:linear-gradient(#3adebd 0%,  #0aa30c 70%);
+}
+img {transition:transform .2s} 
+img:hover {transform:scale(0.9);}
+
+h1 {
+    font-size:20px;
+    font-family:cursive;
+    text-align:center;
+}
+body {
+    text-align:center;
+}
+#myvideos {
+  width:100%;
+    height:1300px;
+    background:linear-gradient(#c90cad 0%, #d261ed 70%);}
+    
+    #myCarousel {
+        background-color:forestgreen;
+        
+    }
+#myCarousel img {
+    height:300px;
+    margin-top:35px;
+}
+.carousel-inner p {
+    margin-bottom:15px;
+    margin-top:15px;
+    color:white;
+    font-size:30px;
+}
